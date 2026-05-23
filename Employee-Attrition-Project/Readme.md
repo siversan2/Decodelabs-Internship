@@ -103,6 +103,7 @@ Employee-Attrition-Project/
 │
 ├── dataset/
 ├── notebook/
+├── screenshot/
 ├── REPORT.pdf
 └── Readme.md
 
